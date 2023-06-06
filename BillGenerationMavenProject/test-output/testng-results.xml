@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-10T19:36:50 IST" name="Default suite" finished-at="2022-06-10T19:37:39 IST" duration-ms="49399">
+    <groups>
+    </groups>
+    <test started-at="2022-06-10T19:36:50 IST" name="Default test" finished-at="2022-06-10T19:37:39 IST" duration-ms="49399">
+      <class name="PomPage.LoginPage">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:36:50 IST" name="beforeMethod" finished-at="2022-06-10T19:37:06 IST" duration-ms="16495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:06 IST" name="Login" data-provider="dataset1" finished-at="2022-06-10T19:37:07 IST" duration-ms="841" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uat1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cam!tH$dZ$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:07 IST" name="afterMethod" finished-at="2022-06-10T19:37:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:07 IST" name="beforeMethod" finished-at="2022-06-10T19:37:09 IST" duration-ms="1581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:09 IST" name="Login" data-provider="dataset1" finished-at="2022-06-10T19:37:11 IST" duration-ms="1920" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uat1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cam!tH$dZ$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:11 IST" name="afterMethod" finished-at="2022-06-10T19:37:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:11 IST" name="beforeMethod" finished-at="2022-06-10T19:37:12 IST" duration-ms="1645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:12 IST" name="Login" data-provider="dataset1" finished-at="2022-06-10T19:37:13 IST" duration-ms="879" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uat1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cam!tH$dZ$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:13 IST" name="afterMethod" finished-at="2022-06-10T19:37:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:13 IST" name="beforeMethod" finished-at="2022-06-10T19:37:15 IST" duration-ms="2047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:15 IST" name="Login" data-provider="dataset1" finished-at="2022-06-10T19:37:16 IST" duration-ms="872" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uat1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cam!tH$dZ$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:16 IST" name="afterMethod" finished-at="2022-06-10T19:37:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:16 IST" name="beforeMethod" finished-at="2022-06-10T19:37:19 IST" duration-ms="2929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:19 IST" name="Login" data-provider="dataset1" finished-at="2022-06-10T19:37:20 IST" duration-ms="859" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uat1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cam!tH$dZ$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:20 IST" name="afterMethod" finished-at="2022-06-10T19:37:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:20 IST" name="beforeMethod" finished-at="2022-06-10T19:37:23 IST" duration-ms="2897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:23 IST" name="Login" data-provider="dataset1" finished-at="2022-06-10T19:37:24 IST" duration-ms="960" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uat1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cam!tH$dZ$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:24 IST" name="afterMethod" finished-at="2022-06-10T19:37:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:24 IST" name="beforeMethod" finished-at="2022-06-10T19:37:27 IST" duration-ms="3317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:27 IST" name="Login" data-provider="dataset1" finished-at="2022-06-10T19:37:28 IST" duration-ms="807" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uat1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cam!tH$dZ$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:28 IST" name="afterMethod" finished-at="2022-06-10T19:37:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:28 IST" name="beforeMethod" finished-at="2022-06-10T19:37:31 IST" duration-ms="3368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:31 IST" name="Login" data-provider="dataset1" finished-at="2022-06-10T19:37:32 IST" duration-ms="854" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uat1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cam!tH$dZ$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:32 IST" name="afterMethod" finished-at="2022-06-10T19:37:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:32 IST" name="beforeMethod" finished-at="2022-06-10T19:37:35 IST" duration-ms="2728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:35 IST" name="Login" data-provider="dataset1" finished-at="2022-06-10T19:37:36 IST" duration-ms="877" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uat1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cam!tH$dZ$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:36 IST" name="beforeMethod" finished-at="2022-06-10T19:37:37 IST" duration-ms="1794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:36 IST" name="afterMethod" finished-at="2022-06-10T19:37:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:37 IST" name="Login" data-provider="dataset1" finished-at="2022-06-10T19:37:39 IST" duration-ms="1646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uat1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cam!tH$dZ$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PomPage.LoginPage@7fee8714]" started-at="2022-06-10T19:37:39 IST" name="afterMethod" finished-at="2022-06-10T19:37:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- PomPage.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
